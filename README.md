@@ -6,4 +6,4 @@ There are two buttons on the screen.  When the button labelled "AddPacMan" is pr
 Possible future improvements include use of all four PacMan images, causing each Pacman to open and close his mouth and face in the direction he is moving.  We could also assign random sizes to each PacMan.  We could have Pacmen bouncing off each other
 when they collide.
 <br><br>
-<a href="https://ronmintz.github.io/">Return to main page</a>
+<a href="https://ronmintz.github.io/">Return to home page</a>
