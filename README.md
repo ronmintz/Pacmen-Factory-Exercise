@@ -7,5 +7,5 @@ Possible future improvements include use of all four PacMan images, causing each
 when they collide.
 <br><br>
 <a href="https://ronmintz.github.io/">Return to home page</a>
-<br><br>
+<br>
 <a href="https://ronmintz.github.io/projects.html">Return to projects page</a>
