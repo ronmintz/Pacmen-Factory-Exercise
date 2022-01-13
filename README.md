@@ -8,7 +8,6 @@ Possible future improvements include use of all four PacMan images, causing each
 when they collide.
 
 MIT License
-
 Copyright (c) 2022 Ronald Mintz
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
